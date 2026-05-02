@@ -149,9 +149,3 @@ Steps:
 - Delete old `index.html` and files inside `assets`
 - Copy new build files from `dist`
 - Paste them into backend `static` directory
-
-
-
-## Disclaimer
-- This project is developed for learning and demonstration purposes
-- AI analysis results may vary and should not be considered professional career advice
